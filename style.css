@@ -24,3 +24,7 @@ body {
   padding: 20px;
   border: 2px solid seagreen;
 }
+
+button {
+  width: 50px;
+}
